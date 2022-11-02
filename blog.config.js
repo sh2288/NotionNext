@@ -55,7 +55,7 @@ const BLOG = {
   CONTACT_EMAIL: '',
   CONTACT_WEIBO: '',
   CONTACT_TWITTER: '',
-  CONTACT_GITHUB: 'https://github.com/sh2288',
+  CONTACT_GITHUB: 'https://github.com/sh2288/transer',
   CONTACT_TELEGRAM: '',
 
   // 鼠标点击烟花特效
