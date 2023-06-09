@@ -12,7 +12,7 @@ const CONFIG_HEXO = {
 
   POST_LIST_COVER: true, // 文章封面
   POST_LIST_SUMMARY: false, // 文章摘要
-  POST_LIST_PREVIEW: false, // 读取文章预览
+  POST_LIST_PREVIEW: true, // 读取文章预览
 
   ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
   ARTICLE_COPYRIGHT: true, // 显示文章版权声明
