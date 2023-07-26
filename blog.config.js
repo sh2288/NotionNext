@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: 'fyj888', // 作者
   BIO: '一个普通的干饭人🍚', // 作者简介
-  LINK: 'https://fyj888.ml', // 网站地址
+  LINK: 'https://fyj.2288666.xyz', // 网站地址
   KEYWORDS: '翻译君,汉化,游戏,博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || '6fbde14a9afa4d39b54579e66154c41a', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
